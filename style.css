@@ -1,0 +1,14 @@
+#title {
+    color: dodgerblue;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3px 3px 2px darkblue;
+    font-size: x-large;
+
+}
+
+#game {
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    grid-template-rows: 150px 150px 150px;
+}
